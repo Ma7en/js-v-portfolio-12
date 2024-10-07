@@ -1,0 +1,44 @@
+
+
+/* ==== html ==== */
+/* font of line */
+
+/*
+
+<link rel="stylesheet" href="font/ClickerScript/ClickerScript.css">
+
+*/
+
+
+/* font on line */
+/* 
+
+<link href="https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap" rel="stylesheet">
+
+
+*/
+
+
+
+
+/* ==== css ==== */
+/* 
+
+font-family: 'Clicker Script', cursive;
+
+*/
+
+/*
+
+@import url('https://fonts.googleapis.com/css2?family=Clicker+Script&display=swap');
+
+*/
+
+
+
+
+
+
+
+
+

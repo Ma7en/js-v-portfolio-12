@@ -1,0 +1,102 @@
+
+
+
+.style-switcher {
+    position: fixed;
+    top: 20px;
+    right: 0;
+    z-index: 100;
+    background-color: #fff;
+    padding: 15px;
+    border: 1px solid #d4d4e3;
+    border-right: none;
+    transition: var(--main-transition) ease-in-out;
+    transform: translateX(100%);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    -webkit-transform: translateX(100%);
+    -moz-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    -o-transform: translateX(100%);
+    -webkit-transition: var(--main-transition) ease-in-out;
+    -moz-transition: var(--main-transition) ease-in-out;
+    -ms-transition: var(--main-transition) ease-in-out;
+    -o-transition: var(--main-transition) ease-in-out;
+}
+
+.style-switcher.open {
+    transform: translateX(0%);
+    -webkit-transform: translateX(0%);
+    -moz-transform: translateX(0%);
+    -ms-transform: translateX(0%);
+    -o-transform: translateX(0%);
+}
+
+.style-switcher h5 {
+    font-size: 16px;
+    color: #302e4d;
+    margin-top: 0;
+    margin-bottom: 8px;
+    padding-bottom: 5px;
+}
+
+.style-switcher h5:nth-of-type(2) {
+    border-top: 1px solid #e8dfec;
+}
+
+.style-switcher ul {
+    margin: 0;
+    padding: 0;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.style-switcher ul li {
+    display: inline-block;
+}
+
+
+.style-switcher ul li a {
+    height: 30px;
+    width: 30px;
+    margin-right: 2px;
+    display: block;
+    cursor: pointer;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.style-switcher .toggle-style-switcher {
+    position: absolute;
+    height: 45px;
+    width: 45px;
+    left: -60px;
+    top: -1px;
+    border: 1px solid #d0d0ee;
+    background-color: #fff;
+    border-right: none;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px 0 0 5px;
+    -webkit-border-radius: 5px 0 0 5px;
+    -moz-border-radius: 5px 0 0 5px;
+    -ms-border-radius: 5px 0 0 5px;
+    -o-border-radius: 5px 0 0 5px;
+}
+
+.style-switcher .toggle-style-switcher i {
+    font-size: 20px;
+    line-height: 43px;
+    /* color: rgb(33, 150, 243); */
+}
+
+
+
+
+

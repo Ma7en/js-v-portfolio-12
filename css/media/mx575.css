@@ -1,0 +1,29 @@
+
+
+
+@media (max-width: 575px) {
+
+
+
+    .portfolio .portfolio-item,
+    .contact .contact-info-item {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+

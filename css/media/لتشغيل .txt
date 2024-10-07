@@ -1,0 +1,24 @@
+<!-- start media - t 2 -->
+
+    <link   rel="stylesheet" 
+            href="css/medai-t/mx767.css" 
+            media="(max-width: 767px)" />
+
+    <link   rel="stylesheet" 
+            href="css/medai-t/mi768.css" 
+            media="(min-width: 768px)" />
+
+    <link   rel="stylesheet" 
+            href="css/medai-t/mx991.css" 
+            media="(max-width: 991px)" />
+
+    <link   rel="stylesheet" 
+            href="css/medai-t/mi992.css" 
+            media="(min-width: 992px)" />
+
+    <link   rel="stylesheet" 
+            href="css/medai-t/mi1200.css" 
+            media="(min-width: 1200px)" />
+
+<!-- end media -->
+

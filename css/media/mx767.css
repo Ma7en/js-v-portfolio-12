@@ -1,0 +1,35 @@
+
+@media (max-width: 767px) {
+
+
+
+    /* about */
+    .about .about-content .personal-info,
+    .about .about-content .skills,
+    .about .about-content .education,
+    .about .about-content .experience,
+    .service .service-item,
+    .blog .blog-item,
+    .contact .contact-form .col-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+
+    .portfolio .portfolio-filter button {
+        margin-bottom: 10px;
+    }
+
+
+    .aside .nav-toggler.open {
+        top: 70px;
+    }
+
+
+
+
+
+
+
+
+}
+

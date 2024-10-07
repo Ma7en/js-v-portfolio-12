@@ -1,0 +1,25 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+
+    /* service */
+    .service .service-item,
+    .portfolio .portfolio-item,
+    .blog .blog-item {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
